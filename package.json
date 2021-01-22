@@ -1,0 +1,20 @@
+{
+  "name": "legion.io___CascadingJavaScript",
+  "version": "1.0.0",
+  "description": "Un framework HTML5/CSS4 , en s'appuyant sur les nouveaux standard ECMAScript CJS est à la fois un \r CMS conçu pour rendre en cascade le contenu de la page web, mais son atout est surtout son \r optimisation pour le marketing. Il s'alliera bien avec les micro services efficients comme ceux \r de google dans le domaine de l'analyse web ou du référencement…",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lgion/legion.io___CascadingJavaScript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lgion/legion.io___CascadingJavaScript/issues"
+  },
+  "homepage": "https://github.com/Lgion/legion.io___CascadingJavaScript#readme"
+}
